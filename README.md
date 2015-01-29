@@ -1,3 +1,5 @@
+This fork is intended for testing purposes, experimenting with composition of diverse services for civic engagement. Below, the original documentation by the creators of the project. 
+
 ### Introduction
 
 [![Build Status](https://api.travis-ci.org/agoraciudadana/agora-ciudadana.png?branch=v2)](https://travis-ci.org/agoraciudadana/agora-ciudadana)
